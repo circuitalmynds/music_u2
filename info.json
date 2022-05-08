@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Giorgio Moroder - Chase (Casablanca Records 1978)-ViN2bRGrBx8.mp4",
+            "path": "music_u2/videos/Giorgio Moroder - Chase (Casablanca Records 1978)-ViN2bRGrBx8.mp4",
+            "size": 36.694201344
+        }
+    ],
+    "total_size": 36.694201344
 }
